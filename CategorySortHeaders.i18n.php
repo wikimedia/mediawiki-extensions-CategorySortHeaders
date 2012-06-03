@@ -98,6 +98,13 @@ $messages['it'] = array(
 	'categorysortheaders-desc' => "Consente di specificare un'intestazione multi-carattere con chiave di ordinamento personalizzata per l'elenco delle pagine nelle categorie, utilizzando la sintassi <nowiki>[[Categoria:Foo|^intestazione^parte invisibile della chiave di ordinamento]]</nowiki>",
 );
 
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'categorysortheaders-desc' => "<nowiki>[[category:Foo|^헤더^정렬 키의 보이지 않는 부분]]</nowiki> 같은 구문을 사용하여 분류에 속하는 문서 목록을 사용자 정의 다중 문자열의 '첫 문자' 정렬 헤더를 지정하는 것을 허용",
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
