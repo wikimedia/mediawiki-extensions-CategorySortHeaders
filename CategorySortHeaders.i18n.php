@@ -91,7 +91,7 @@ $messages['ia'] = array(
 	'categorysortheaders-desc' => 'Permitte alterar le ordine de apparentia de paginas in categorias, per specificar claves multi-character de ordination usante un syntaxe como <nowiki>[[category:Foo|^Header^Invisible part of sortkey]]</nowiki>',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Beta16
  */
 $messages['it'] = array(
