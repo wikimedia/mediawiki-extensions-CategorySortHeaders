@@ -19,7 +19,7 @@ $messages['qqq'] = array(
 	'categorysortheaders-desc' => '{{desc}}',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -49,14 +49,14 @@ $messages['dsb'] = array(
 	'categorysortheaders-desc' => 'Dowólujo swójske sortěrowańske głowy z někotarymi znamuškami pódaś, aby se boki z pomocu syntaksy <nowiki>[[category:Foo|^Header^Invisible part of sortkey]]</nowiki> do kategorijow sortěrowali',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Armando-Martin
  */
 $messages['es'] = array(
 	'categorysortheaders-desc' => "Permite especificar el 'primer-carácter' como multi-carácter personalizado clasificando los encabezados de las páginas en categorías, utilizando una sintaxis como <nowiki>[[category:Foo|^Encabezado^Parte invisible de sortkey]]</nowiki>",
 );
 
-/** French (Français)
+/** French (français)
  * @author Gomoko
  */
 $messages['fr'] = array(
@@ -84,7 +84,7 @@ $messages['hsb'] = array(
 	'categorysortheaders-desc' => 'Dowola swójske sortěrowanske hłowy z wjacorymi znamješkami podać, zo bychu so strony z pomocu syntaksy <nowiki>[[category:Foo|^Header^Invisible part of sortkey]]</nowiki> do kategorijow sortěrowali',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -127,7 +127,7 @@ $messages['li'] = array(
 	'categorysortheaders-desc' => "Maak 't mäögelik um aangepaste sorteervolgorde (op mierdere teikes) bie te doon aan pagina's veur opname in categorieë, mit de opmaak <nowiki>[[category:Foo:Categorienaam|ˆHeader^Oonzichbaar deil van de sorteervolgorde]]</nowiki>",
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -155,7 +155,7 @@ $messages['nl'] = array(
 	'categorysortheaders-desc' => "Maakt het mogelijk om aangepaste sorteervolgorden (op meerdere tekens) toe te voegen aan pagina's voor opname in categorieën, met de opmaak <nowiki>[[category:Foo:Categorienaam|ˆHeader^Onzichtbaar deel van de sorteervolgorde]]</nowiki>",
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author BeginaFelicysym
  */
 $messages['pl'] = array(
@@ -170,35 +170,35 @@ $messages['pms'] = array(
 	'categorysortheaders-desc' => "A përmët dë spessifiché dj'antestassion përsonalisà d'ordinament multi-caràter 'prim-caràter' për listé le pàgine ant le categorìe, an dovrand na sintassi com <nowiki>[[category:Foo|^Antestassion^Part invisìbil dla ciav d'ordinament]]</nowiki>",
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  */
 $messages['pt'] = array(
 	'categorysortheaders-desc' => 'Permite especificar cabeçalhos de ordenação personalizados, com vários caracteres, nas páginas de categoria. <!--<nowiki>[[category:Foo|^Header^Invisible part of sortkey]]</nowiki>-->',
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Ignatus
  */
 $messages['ru'] = array(
 	'categorysortheaders-desc' => 'Позволяет задать пользовательские многосимвольные заголовки сортировки «по первым буквам» для списка страниц в категориях с помощью синтаксиса вида <nowiki>[[category:ИмяКатегории|^Заголовок^ невидимая часть ключа сортировки]]</nowiki>',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author Sodmy
  */
 $messages['uk'] = array(
 	'categorysortheaders-desc' => "Дозволяє вказати власні мульти-символи 'перший символ' сортування заголовків до списку сторінок під категорії, використовуючи такий синтаксис <nowiki>[[category:Foo|^заголовок^невидима частина ключа сортування]]</nowiki>",
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author PhiLiP
  */
 $messages['zh-hans'] = array(
 	'categorysortheaders-desc' => '允许自定义多个字符为分类中排序页面列表的“索引字”，使用语法为<nowiki>[[category:Foo|^索引字^其余部分]]</nowiki>',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬) */
+/** Traditional Chinese (‪中文（繁體）‬) */
 $messages['zh-hant'] = array(
 	'categorysortheaders-desc' => '允許自定義多個字符為分類中排序頁面列表的“索引字”，使用語法為<nowiki>[[category:Foo|^索引字^其餘部分]]</nowiki>',
 );
