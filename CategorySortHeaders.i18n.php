@@ -26,7 +26,7 @@ $messages['ast'] = array(
 	'categorysortheaders-desc' => "Permite conseñar testeres d'ordenación personalizaes, con un «primer caráuter» múltiple, pa llistar les páxines baxo categoríes, usando una sintaxis como <nowiki>[[category:Foo|^Testera^Parte invisible de la clave d'ordenación]]</nowiki>",
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Renessaince
  * @author Wizardist
@@ -42,7 +42,7 @@ $messages['de'] = array(
 	'categorysortheaders-desc' => 'Ermöglicht, unter Angabe eines abweichenden Titels zur Anzeige, die Einsortierung von Seiten in Kategorien <!--<nowiki>[[category:Foo|^Header^Invisible part of sortkey]]</nowiki>-->',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -63,7 +63,7 @@ $messages['fr'] = array(
 	'categorysortheaders-desc' => "Permet de spécifier des entêtes de tri par 'premier caractère' avec plusieurs caractères pour classer les pages dans les catégories, en utilisant une syntaxe comme <nowiki>[[category:Foo|^Entête^Partie invisible de la clé de tri]]</nowiki>",
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -77,7 +77,7 @@ $messages['he'] = array(
 	'categorysortheaders-desc' => "אפשרות לציין כותרות מיון 'first-character' מרובות־תווים מותאמות אישית כדי ליצור רשימות דפים בקטגוריות, באמצועת תחביר כגון <nowiki>[[category:Foo|^Header^חלק בלתי־נראה של מפתח מיון]]</nowiki>",
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
