@@ -184,6 +184,13 @@ $messages['ru'] = array(
 	'categorysortheaders-desc' => 'Позволяет задать пользовательские многосимвольные заголовки сортировки «по первым буквам» для списка страниц в категориях с помощью синтаксиса вида <nowiki>[[category:ИмяКатегории|^Заголовок^ невидимая часть ключа сортировки]]</nowiki>',
 );
 
+/** Tagalog (Tagalog)
+ * @author AnakngAraw
+ */
+$messages['tl'] = array(
+	'categorysortheaders-desc' => "Pahintulutan upang matukoy ang pasadyang mga paulo ng pagkakaayos ng maramihang panitik na 'unang panitik' sa mga pahina ng lista na nasa ilalim ng mga kategorya, na ginagamit ang palaugnayang katulad ng <nowiki>[[category:Foo|^Paulo^Hindi nakikitang bahagi ng susing pang-ayos]]</nowiki>",
+);
+
 /** Ukrainian (українська)
  * @author Sodmy
  */
