@@ -141,7 +141,7 @@ $messages['ms'] = array(
 	'categorysortheaders-desc' => "Membolehkan penentuan pengatas isih 'aksara pertama' berbilang aksara untuk menyeranaikan laman dalam kategori dengan menggunakan sintaks seperti <nowiki>[[category:Foo|bahagian ^Header^Invisible kunci isih]]</nowiki>",
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Event
  */
 $messages['nb'] = array(
