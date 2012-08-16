@@ -141,6 +141,13 @@ $messages['ms'] = array(
 	'categorysortheaders-desc' => "Membolehkan penentuan pengatas isih 'aksara pertama' berbilang aksara untuk menyeranaikan laman dalam kategori dengan menggunakan sintaks seperti <nowiki>[[category:Foo|bahagian ^Header^Invisible kunci isih]]</nowiki>",
 );
 
+/** Maltese (Malti)
+ * @author Chrisportelli
+ */
+$messages['mt'] = array(
+	'categorysortheaders-desc' => "Tħalli li tispeċifika intestazzjoni ta' iktar minn karattru wieħed bil-kodiċi tal-issortjar ippersonalizzat għal-lista tal-paġni fil-kategoriji, bl-użu tas-sintassi <nowiki>[[Category:Foo|^Intestazzjoni^Parti inviżibbli tal-kodiċi tal-issortjar]]</nowiki>",
+);
+
 /** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Event
  */
