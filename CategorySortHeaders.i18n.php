@@ -26,7 +26,7 @@ $messages['ast'] = array(
 	'categorysortheaders-desc' => "Permite conseñar testeres d'ordenación personalizaes, con un «primer caráuter» múltiple, pa llistar les páxines baxo categoríes, usando una sintaxis como <nowiki>[[category:Foo|^Testera^Parte invisible de la clave d'ordenación]]</nowiki>",
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Renessaince
  * @author Wizardist
@@ -155,7 +155,7 @@ $messages['mt'] = array(
 	'categorysortheaders-desc' => "Tħalli li tispeċifika intestazzjoni ta' iktar minn karattru wieħed bil-kodiċi tal-issortjar ippersonalizzat għal-lista tal-paġni fil-kategoriji, bl-użu tas-sintassi <nowiki>[[Category:Foo|^Intestazzjoni^Parti inviżibbli tal-kodiċi tal-issortjar]]</nowiki>",
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Event
  */
 $messages['nb'] = array(
@@ -212,14 +212,14 @@ $messages['uk'] = array(
 	'categorysortheaders-desc' => "Дозволяє вказати власні мульти-символи 'перший символ' сортування заголовків до списку сторінок під категорії, використовуючи такий синтаксис <nowiki>[[category:Foo|^заголовок^невидима частина ключа сортування]]</nowiki>",
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author PhiLiP
  */
 $messages['zh-hans'] = array(
 	'categorysortheaders-desc' => '允许自定义多个字符为分类中排序页面列表的“索引字”，使用语法为<nowiki>[[category:Foo|^索引字^其余部分]]</nowiki>',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬) */
+/** Traditional Chinese (中文（繁體）‎) */
 $messages['zh-hant'] = array(
 	'categorysortheaders-desc' => '允許自定義多個字符為分類中排序頁面列表的“索引字”，使用語法為<nowiki>[[category:Foo|^索引字^其餘部分]]</nowiki>',
 );
