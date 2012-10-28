@@ -14,7 +14,8 @@ $messages['en'] = array(
 	'categorysortheaders-desc' => 'Allow to specify custom multi-character \'first-character\' sorting headers to list pages under in categories, using syntax like <nowiki>[[category:Foo|^Header^Invisible part of sortkey]]</nowiki>',
 );
 
-/** Message documentation (Message documentation) */
+/** Message documentation (Message documentation)
+ */
 $messages['qqq'] = array(
 	'categorysortheaders-desc' => '{{desc}}',
 );
@@ -159,7 +160,7 @@ $messages['mt'] = array(
  * @author Event
  */
 $messages['nb'] = array(
-	'categorysortheaders-desc' => 'Tillatt å angi egendefinerte, initielle flertegns sorteringsoverskrifter for å liste sidene under i kategorier med bruk av syntaksen  <nowiki>[[Kategori:Foo|^Overskrift^Usynlig del av sorteringsnøkkel]]</nowiki>',
+	'categorysortheaders-desc' => 'Tillatt å angi egendefinerte, initielle flertegns sorteringsoverskrifter for å liste sidene under i kategorier med bruk av syntaksen  <nowiki>[[Kategori:Foo|^Overskrift^Usynlig del av sorteringsnøkkel]]</nowiki>', # Fuzzy
 );
 
 /** Dutch (Nederlands)
@@ -219,8 +220,8 @@ $messages['zh-hans'] = array(
 	'categorysortheaders-desc' => '允许自定义多个字符为分类中排序页面列表的“索引字”，使用语法为<nowiki>[[category:Foo|^索引字^其余部分]]</nowiki>',
 );
 
-/** Traditional Chinese (中文（繁體）‎) */
+/** Traditional Chinese (中文（繁體）‎)
+ */
 $messages['zh-hant'] = array(
 	'categorysortheaders-desc' => '允許自定義多個字符為分類中排序頁面列表的“索引字”，使用語法為<nowiki>[[category:Foo|^索引字^其餘部分]]</nowiki>',
 );
-
