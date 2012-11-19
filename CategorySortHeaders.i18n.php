@@ -160,7 +160,7 @@ $messages['mt'] = array(
  * @author Event
  */
 $messages['nb'] = array(
-	'categorysortheaders-desc' => 'Tillatt å angi egendefinerte, initielle flertegns sorteringsoverskrifter for å liste sidene under i kategorier med bruk av syntaksen  <nowiki>[[Kategori:Foo|^Overskrift^Usynlig del av sorteringsnøkkel]]</nowiki>', # Fuzzy
+	'categorysortheaders-desc' => 'Gjør det mulig å angi egendefinerte flertegns sorteringsoverskrifter for å liste sidene med i kategorier ved bruk av syntaks som <nowiki>[[Kategori:Foo|^Overskrift^Usynlig del av sorteringsnøkkel]]</nowiki>',
 );
 
 /** Dutch (Nederlands)
