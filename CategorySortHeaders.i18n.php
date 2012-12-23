@@ -15,9 +15,10 @@ $messages['en'] = array(
 );
 
 /** Message documentation (Message documentation)
+ * @author Shirayuki
  */
 $messages['qqq'] = array(
-	'categorysortheaders-desc' => '{{desc}}',
+	'categorysortheaders-desc' => '{{desc|name=Category Sort Headers|url=http://www.mediawiki.org/wiki/Extension:CategorySortHeaders}}',
 );
 
 /** Asturian (asturianu)
