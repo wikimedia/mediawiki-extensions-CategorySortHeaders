@@ -168,7 +168,7 @@ $messages['nb'] = array(
  * @author Siebrand
  */
 $messages['nl'] = array(
-	'categorysortheaders-desc' => "Maakt het mogelijk om aangepaste sorteervolgorden (op meerdere tekens) toe te voegen aan pagina's voor opname in categorieën, met de opmaak <nowiki>[[category:Foo:Categorienaam|ˆHeader^Onzichtbaar deel van de sorteervolgorde]]</nowiki>",
+	'categorysortheaders-desc' => "Maakt het mogelijk om aangepaste sorteervolgorden (op meerdere tekens) toe te voegen aan pagina's voor opname in categorieën, met de opmaak <nowiki>[[category:Foo:Categorienaam|ˆHeader^Onzichtbaar deel van de sorteersleutel]]</nowiki>",
 );
 
 /** Polish (polski)
