@@ -193,6 +193,13 @@ $messages['pt'] = array(
 	'categorysortheaders-desc' => 'Permite especificar cabeçalhos de ordenação personalizados, com vários caracteres, nas páginas de categoria. <!--<nowiki>[[category:Foo|^Header^Invisible part of sortkey]]</nowiki>-->',
 );
 
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'categorysortheaders-desc' => "Permette de specificà le multi-carattere personalizzate sus a 'u 'prime-carattere' pe l'ordinamende de le testate susa le elenghe de le pàggene sotte a le categorije, ausanne 'a sindasse cumme <nowiki>[[category:Foo|^Testate^Invisibbile parte de l'ordinamende]]</nowiki>",
+);
+
 /** Russian (русский)
  * @author Ignatus
  */
