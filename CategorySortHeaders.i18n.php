@@ -157,7 +157,7 @@ $messages['mt'] = array(
 	'categorysortheaders-desc' => "Tħalli li tispeċifika intestazzjoni ta' iktar minn karattru wieħed bil-kodiċi tal-issortjar ippersonalizzat għal-lista tal-paġni fil-kategoriji, bl-użu tas-sintassi <nowiki>[[Category:Foo|^Intestazzjoni^Parti inviżibbli tal-kodiċi tal-issortjar]]</nowiki>",
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  * @author Event
  */
 $messages['nb'] = array(
