@@ -28,6 +28,13 @@ $messages['ast'] = array(
 	'categorysortheaders-desc' => "Permite conseñar testeres d'ordenación personalizaes, con un «primer caráuter» múltiple, pa llistar les páxines baxo categoríes, usando una sintaxis como <nowiki>[[category:Foo|^Testera^Parte invisible de la clave d'ordenación]]</nowiki>",
 );
 
+/** Bikol Central (Bikol Central)
+ * @author Geopoet
+ */
+$messages['bcl'] = array(
+	'categorysortheaders-desc' => "Minatugot sa pagsambit sa kustombre dagmang na karakter 'enot na karakter' na salansanon nin mga kapamayuhanan na maglista nin mga pahina sa lindong nin mga kategoriya, na naggagamit nin sintaks na kaagidan  <nowiki>[[category:Foo|^Kapamayuhanan^Dae nahihiling parte kan susi nin salansanon]]</nowiki>",
+);
+
 /** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Renessaince
