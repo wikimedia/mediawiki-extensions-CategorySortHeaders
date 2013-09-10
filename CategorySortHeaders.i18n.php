@@ -194,10 +194,18 @@ $messages['pms'] = array(
 );
 
 /** Portuguese (português)
+ * @author Cainamarques
  * @author Hamilton Abreu
  */
 $messages['pt'] = array(
-	'categorysortheaders-desc' => 'Permite especificar cabeçalhos de ordenação personalizados, com vários caracteres, nas páginas de categoria. <!--<nowiki>[[category:Foo|^Header^Invisible part of sortkey]]</nowiki>-->',
+	'categorysortheaders-desc' => 'Permite especificar cabeçalhos de ordenação personalizados com vários caracteres para listar páginas em categorias utilizando uma sintaxe como <nowiki>[[category:Foo|^Header^Invisible part of sortkey]]</nowiki>',
+);
+
+/** Brazilian Portuguese (português do Brasil)
+ * @author Cainamarques
+ */
+$messages['pt-br'] = array(
+	'categorysortheaders-desc' => 'Permite especificar cabeçalhos de ordenação personalizados com vários caracteres para listar páginas em categorias utilizando uma sintaxe como <nowiki>[[category:Foo|^Header^Invisible part of sortkey]]</nowiki>',
 );
 
 /** tarandíne (tarandíne)
