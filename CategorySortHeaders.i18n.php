@@ -131,9 +131,10 @@ $messages['ksh'] = array(
 
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
+ * @author Soued031
  */
 $messages['lb'] = array(
-	'categorysortheaders-desc' => 'Erlaabt et anescht wéi ënnert dem Titel dee gewise gëtt, Säiten a Kategorien anzekategoriséieren, an deem Dir dës Syntax benotzt: <nowiki>[[category:Foo|^Header^Invisible part of sortkey]]</nowiki>',
+	'categorysortheaders-desc' => 'Erlaabt et anescht wéi ënner dem Titel dee gewise gëtt, Säiten a Kategorien anzekategoriséieren, an deem Dir dës Syntax benotzt: <nowiki>[[category:Foo|^Header^Invisible part of sortkey]]</nowiki>',
 );
 
 /** Limburgish (Limburgs)
