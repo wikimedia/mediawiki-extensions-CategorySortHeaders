@@ -65,6 +65,13 @@ $messages['es'] = array(
 	'categorysortheaders-desc' => "Permite especificar el 'primer-carácter' como multi-carácter personalizado clasificando los encabezados de las páginas en categorías, utilizando una sintaxis como <nowiki>[[category:Foo|^Encabezado^Parte invisible de sortkey]]</nowiki>",
 );
 
+/** Persian (فارسی)
+ * @author Armin1392
+ */
+$messages['fa'] = array(
+	'categorysortheaders-desc' => "با استفاده از نحو ،مانند <nowiki>[[category:Foo|^Header^Invisible part of sortkey]]</nowiki>،اجازهٔ تعیین چند خصیصه 'اولین خصیصه' مرتب کردن سرفصل‌ها به فهرست کردن صفحات در زیر دسته‌ بندی‌ها بدهید.",
+);
+
 /** French (français)
  * @author Gomoko
  */
