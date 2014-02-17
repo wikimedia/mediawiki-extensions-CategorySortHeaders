@@ -188,9 +188,10 @@ $messages['nl'] = array(
 
 /** Polish (polski)
  * @author BeginaFelicysym
+ * @author Chrumps
  */
 $messages['pl'] = array(
-	'categorysortheaders-desc' => 'Pozwala określić niestandardowe wieloznalowe sortowanie nagłówków "według pierwszego znaku\' do listowania stron w kategoriach, przy użyciu składni w stylu <nowiki>[[category:Foo|^Nagłówek^Niewidoczna część klucza sortowania]]</nowiki>',
+	'categorysortheaders-desc' => 'Pozwala określić niestandardowe wieloznakowe sortowanie nagłówków „według pierwszego znaku” do listowania stron w kategoriach, przy użyciu składni w stylu <nowiki>[[category:Foo|^Nagłówek^Niewidoczna część klucza sortowania]]</nowiki>',
 );
 
 /** Piedmontese (Piemontèis)
