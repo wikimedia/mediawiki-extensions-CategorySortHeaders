@@ -231,6 +231,13 @@ $messages['ru'] = array(
 	'categorysortheaders-desc' => 'Позволяет задать пользовательские многосимвольные заголовки сортировки «по первым буквам» для списка страниц в категориях с помощью синтаксиса вида <nowiki>[[category:ИмяКатегории|^Заголовок^ невидимая часть ключа сортировки]]</nowiki>',
 );
 
+/** Scots (Scots)
+ * @author John Reid
+ */
+$messages['sco'] = array(
+	'categorysortheaders-desc' => "Permit tae specify custom multi-chairacter 'first-chairacter' sorting headers tae leet pages unner in categories, uising syntax like <nowiki>[[category:Foo|^Header^Invisible pairt o sortkey]]</nowiki>",
+);
+
 /** Tagalog (Tagalog)
  * @author AnakngAraw
  */
