@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Shirayuki"
-        ]
-    },
-    "categorysortheaders-desc": "{{desc|name=Category Sort Headers|url=http://www.mediawiki.org/wiki/Extension:CategorySortHeaders}}"
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"categorysortheaders-desc": "{{desc|name=Category Sort Headers|url=http://www.mediawiki.org/wiki/Extension:CategorySortHeaders}}"
 }
