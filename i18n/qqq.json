@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki"
+			"Shirayuki",
+			"Umherirrender"
 		]
 	},
-	"categorysortheaders-desc": "{{desc|name=Category Sort Headers|url=http://www.mediawiki.org/wiki/Extension:CategorySortHeaders}}"
+	"categorysortheaders-desc": "{{desc|name=Category Sort Headers|url=https://www.mediawiki.org/wiki/Extension:CategorySortHeaders}}"
 }
