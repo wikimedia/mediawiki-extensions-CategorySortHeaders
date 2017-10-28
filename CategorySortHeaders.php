@@ -53,7 +53,6 @@ $wgExtensionCredits['other'][] = array(
 
 $dir = dirname( __FILE__ ) . '/';
 $wgMessagesDirs['CategorySortHeaders'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['CategorySortHeaders'] = $dir . 'CategorySortHeaders.i18n.php';
 $wgAutoloadClasses['CustomHeaderCollation'] = $dir . 'CategorySortHeaders_body.php';
 
 $wgCategoryCollation = 'CustomHeaderCollation';
