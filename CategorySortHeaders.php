@@ -1,5 +1,5 @@
 <?php
-if (!defined( 'MEDIAWIKI' ) ) { die('Not an entry point');
+if ( !defined( 'MEDIAWIKI' ) ) { die( 'Not an entry point' );
 }
 
 /**
@@ -41,7 +41,6 @@ if (!defined( 'MEDIAWIKI' ) ) { die('Not an entry point');
  *
  * @author Brian Wolff
  */
-
 
 $wgExtensionCredits['other'][] = [
 	'path' => __FILE__,
