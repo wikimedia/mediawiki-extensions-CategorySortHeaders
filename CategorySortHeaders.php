@@ -1,5 +1,6 @@
 <?php
-if (!defined( 'MEDIAWIKI' ) ) die('Not an entry point');
+if (!defined( 'MEDIAWIKI' ) ) { die('Not an entry point');
+}
 
 /**
  * Extension to allow specifying custom multi-character 'first-character'

@@ -1,5 +1,6 @@
 <?php
-if (!defined( 'MEDIAWIKI' )) die( "Not an entry point" );
+if (!defined( 'MEDIAWIKI' )) { die( "Not an entry point" );
+}
 
 /**
  * Pretty much based on UppercaseCollation from core.
@@ -25,7 +26,8 @@ class CustomHeaderCollation extends Collation {
 
 		$matches = [];
 		if ( preg_match( '/^\^([^\n^]*)\^(.*)$/Ds', $string, $matches ) ) {
-			if ( $matches[1] === '' ) $matches[1] = ' ';
+			if ( $matches[1] === '' ) { $matches[1] = ' ';
+			}
 			$part1 = $wgContLang->firstChar( $wgContLang->uc( $matches[1] ) );
 			$part2 = $matches[1];
 			$part3prefix = '';
