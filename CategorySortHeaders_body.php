@@ -23,7 +23,7 @@ class CustomHeaderCollation extends Collation {
 		// I'm not sure why. To me it makes more sense to use $wgContLang.
 		// There's minnor differences in some languages (like Turkish)
 
-		$matches = array();
+		$matches = [];
 		if ( preg_match( '/^\^([^\n^]*)\^(.*)$/Ds', $string, $matches ) ) {
 			if ( $matches[1] === '' ) $matches[1] = ' ';
 			$part1 = $wgContLang->firstChar( $wgContLang->uc( $matches[1] ) );
@@ -61,7 +61,7 @@ class CustomHeaderCollation extends Collation {
 				$string = substr( $string, 1 );
 			}
 
-			$m = array();
+			$m = [];
 			if ( preg_match( '/^\^([^\n^]*)\^/', $string, $m ) ) {
 				return $m[1];
 			} else {
