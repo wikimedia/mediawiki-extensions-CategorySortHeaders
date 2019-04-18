@@ -45,7 +45,7 @@ if ( !defined( 'MEDIAWIKI' ) ) { die( 'Not an entry point' );
 $wgExtensionCredits['other'][] = [
 	'path' => __FILE__,
 	'name' => 'CategorySortHeaders',
-	'author' => '[http://mediawiki.org/wiki/User:Bawolff Brian Wolff]',
+	'author' => '[https://mediawiki.org/wiki/User:Bawolff Brian Wolff]',
 	'descriptionmsg' => 'categorysortheaders-desc',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:CategorySortHeaders',
 	'version' => '0.3.0',
