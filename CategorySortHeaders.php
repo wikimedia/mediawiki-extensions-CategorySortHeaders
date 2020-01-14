@@ -21,7 +21,7 @@ if ( !defined( 'MEDIAWIKI' ) ) {
  * Run either update.php or updateCollation.php
  * (update.php can be run from the web installer if need be.)
  *
- **************************************************************
+ *
  *
  * Copyright © 2011 Brian Wolff
  *
