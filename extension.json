@@ -19,7 +19,7 @@
 		]
 	},
 	"AutoloadClasses": {
-		"CustomHeaderCollation": "CategorySortHeaders_body.php"
+		"CustomHeaderCollation": "src/CustomHeaderCollation.php"
 	},
 	"Hooks": {
 		"Collation::factory": "CustomHeaderCollation::onCategorySortHeadersSetup"
