@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"JeffreyKim"
+		]
+	},
+	"categorysortheaders-desc": "允許指定自訂多字元「第一個字元」排序標題，以便喺類別入面列出頁面，並使用語法，例如 <nowiki>[[category:Foo|^ 標題 ^ 排序鍵嘅唔見得部分]]</nowiki>"
+}
