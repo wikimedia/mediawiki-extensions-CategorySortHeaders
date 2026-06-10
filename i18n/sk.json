@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard"
+		]
+	},
+	"categorysortheaders-desc": "Umožňuje zadať vlastné viacznakové hlavičky „prvého znaku\" na zoraďovanie, pod ktoré sa zaraďujú stránky v kategóriách, pomocou syntaxe ako <nowiki>[[category:Foo|^Header^Invisible part of sortkey]]</nowiki>"
+}
